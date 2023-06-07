@@ -2,8 +2,6 @@
 
 const ccheck = 0;
 
-const newConst = "master build branch change";
-
 function buildTree( { el, style, attr, events, inner, inhtml } ) {
 
     let new_element = document.createElement(el);
